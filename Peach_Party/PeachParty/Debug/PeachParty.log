@@ -1,0 +1,6 @@
+﻿  Actor.cpp
+  StudentWorld.cpp
+C:\kjy\UCLA\CS32\Project 3\PeachParty\PeachParty\StudentWorld.cpp(220,23): warning C4018: '<': signed/unsigned mismatch
+C:\kjy\UCLA\CS32\Project 3\PeachParty\PeachParty\StudentWorld.cpp(256,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  PeachParty.vcxproj -> C:\kjy\UCLA\CS32\Project 3\PeachParty\Debug\PeachParty.exe
